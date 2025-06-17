@@ -1,1 +1,1 @@
-# Aplikasi-Rekomendasi-Seleksi-Beasiswa-
+# Beasiswa

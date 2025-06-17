@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "seleksibeasiswaapp"
+  },
+  "targets": {
+    "seleksibeasiswaapp": {
+      "hosting": {
+        "packages": [
+          "seleksibeasiswaapp"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
